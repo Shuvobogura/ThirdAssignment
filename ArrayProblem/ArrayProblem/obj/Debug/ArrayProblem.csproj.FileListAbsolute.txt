@@ -1,0 +1,13 @@
+D:\bitm practice\array\ArrayProblem\ArrayProblem\bin\Debug\ArrayProblem.exe.config
+D:\bitm practice\array\ArrayProblem\ArrayProblem\bin\Debug\ArrayProblem.exe
+D:\bitm practice\array\ArrayProblem\ArrayProblem\bin\Debug\ArrayProblem.pdb
+D:\bitm practice\array\ArrayProblem\ArrayProblem\obj\Debug\ArrayProblem.csprojAssemblyReference.cache
+D:\bitm practice\array\ArrayProblem\ArrayProblem\obj\Debug\ArrayProblem.ArrayPractice.resources
+D:\bitm practice\array\ArrayProblem\ArrayProblem\obj\Debug\ArrayProblem.Properties.Resources.resources
+D:\bitm practice\array\ArrayProblem\ArrayProblem\obj\Debug\ArrayProblem.csproj.GenerateResource.cache
+D:\bitm practice\array\ArrayProblem\ArrayProblem\obj\Debug\ArrayProblem.csproj.CoreCompileInputs.cache
+D:\bitm practice\array\ArrayProblem\ArrayProblem\obj\Debug\ArrayProblem.exe
+D:\bitm practice\array\ArrayProblem\ArrayProblem\obj\Debug\ArrayProblem.pdb
+D:\bitm practice\array\ArrayProblem\ArrayProblem\obj\Debug\ArrayProblem.ArrayFirstProblem.resources
+D:\bitm practice\array\ArrayProblem\ArrayProblem\obj\Debug\ArrayProblem.ArraySecondProblem.resources
+D:\bitm practice\array\ArrayProblem\ArrayProblem\obj\Debug\ArrayProblem.Assignment3.resources
